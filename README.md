@@ -76,7 +76,7 @@ This analysis addresses the following core questions:
 ---
 
 ### 2. Booking Value by Vehicle Type  
-![Booking Value per Vehicle Type](Dashboard/1.%20Overall.png)
+![Booking Value per Vehicle Type](OLA%20Dashboard/Dashboard/2.%20Vehcle%20Type.png)
 
 #### 📊 Insights
 
