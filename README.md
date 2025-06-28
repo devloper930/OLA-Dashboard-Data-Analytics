@@ -71,7 +71,7 @@ This analysis addresses the following core questions:
 ## 📈 Key Findings & Visualizations
 
 ### 1. Total Bookings and Booking Value  
-![Booking Dashboard](Images/Booking%20value.png)
+![Booking Dashboard](OLA%20Dashboard/Dashboard/Total%20bookings.png)
 
 ---
 
@@ -91,7 +91,7 @@ This analysis addresses the following core questions:
 ---
 
 ### 3. Booking Status Distribution  
-![Booking Status](Images/pie.png)
+![Booking Status](OLA%20Dashboard/Dashboard/booking%20status%20over%20time.png)
 
 #### 📊 Insights
 
@@ -107,7 +107,7 @@ This analysis addresses the following core questions:
 ---
 
 ### 4. Revenue by Payment Method  
-![Payment Methods](Images/payment%20method.png)
+![Payment Methods](OLA%20Dashboard/Dashboard/revenue%20by%20payment%20method.png)
 
 #### 📊 Insights
 
@@ -123,7 +123,7 @@ This analysis addresses the following core questions:
 ---
 
 ### 5. Average Customer Ratings by Vehicle Type  
-![Customer Ratings](Images/Customer%20Rating%20for%20Each%20Vehhicle%20Type.png)
+![Customer Ratings](OLA%20Dashboard/Dashboard/customer%20rating.png)
 
 #### 📊 Insights
 
@@ -138,7 +138,7 @@ This analysis addresses the following core questions:
 ---
 
 ### 6. Average Driver Ratings by Vehicle Type  
-![Driver Ratings](Images/Driver%20Rating.png)
+![Driver Ratings](OLA%20Dashboard/Dashboard/driver%20rating.png)
 
 #### 📊 Insights
 
@@ -153,7 +153,7 @@ This analysis addresses the following core questions:
 ---
 
 ### 7. Cancellation Reasons – Customers  
-![Customer Cancellations](Images/cancellation%20reason-%20Customer.png)
+![Customer Cancellations](OLA%20Dashboard/Dashboard/cancel%20ride%20by%20customer.png)
 
 #### 📊 Insights
 
@@ -166,7 +166,7 @@ This analysis addresses the following core questions:
 ---
 
 ### 8. Cancellation Reasons – Drivers  
-![Driver Cancellations](Images/cancellation%20reason-%20driver.png)
+![Driver Cancellations](OLA%20Dashboard/Dashboard/cancel%20ride%20by%20rider.png)
 
 #### 📊 Insights
 
